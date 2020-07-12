@@ -5,7 +5,7 @@ h1 {
 }
 
 p {
-    letter-spacing: 8px;
+    letter-spacing: 2px;
 }
 
 #calc-container {
@@ -65,9 +65,10 @@ p {
     justify-content: space-around;
 }
 
-#operator {
+#operator, #equals, #clear, #decimal {
     border-radius: 6px;
     height: 80px;
     width: 90px;
     font-size: 22px;
 }
+
